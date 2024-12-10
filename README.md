@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Edi Wicoro!<br>💻 Aspiring Software Developer | 🎓 Student | 🌱 Tech Enthusiast<br><br>🔭 About Me:<br><br>    I'm a Computer Engineering student passionate about creating innovative web applications.<br>    I specialize in JavaScript and Python for building modern and scalable solutions.<br>    Skilled in using React, CodeIgniter, and TailwindCSS for frontend and backend development.<br>    Always eager to learn new technologies and collaborate on exciting projects.<br><br>🌟 Skills & Tools:<br><br>    Languages: JavaScript, Python<br>    Frameworks: React, CodeIgniter<br>    Styling: TailwindCSS<br>    Others: Git, REST API
+👋 Hi, I'm Edi Wicoro!<br>💻 Aspiring Software Developer | 🎓 Student | 🌱 Tech Enthusiast<br><br>🔭 About Me:<br><br>    I'm a Computer Engineering student passionate about creating innovative web applications.<br>   <br>🌟 Skills & Tools:<br><br>    Languages: JavaScript, Python<br>    Frameworks: React, CodeIgniter<br>    Styling: TailwindCSS<br>    Others: Git, REST API
 
 
 # 💻 Tech Stack:
