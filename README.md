@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Edi Wicoro!<br>💻 Aspiring Software Developer | 🎓 Student | 🌱 Tech Enthusiast<br><br>🔭 About Me:<br><br>    I'm a Computer Engineering student passionate about creating innovative web applications.<br>   <br>🌟 Skills & Tools:<br><br>    Languages: JavaScript, Python<br>    Frameworks: React, CodeIgniter<br>    Styling: TailwindCSS<br>    Others: Git, REST API
+![github-snake-animation](https://raw.githubusercontent.com/Ediw7/Ediw7/output/snake.svg)
+
+👋 Hi, I'm Edi Wicoro!<br>💻 Aspiring Software Developer | 🎓 Student | 🌱 Tech Enthusiast<br><br>🔭 About Me:<br><br>    I'm a Computer Engineering student passionate about creating innovative web applications.<br>   <br>🌟 Skills & Tools:<br><br>    Languages: JavaScript, Php<br>    Frameworks: React, CodeIgniter<br>    Styling: TailwindCSS<br>    Others: Git, REST API
 
 
 # 💻 Tech Stack:
