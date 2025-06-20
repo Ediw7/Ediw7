@@ -5,9 +5,6 @@
 # 💻 Tech Stack & Tools
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,codeigniter,python,git,vscode,figma" />
-    <a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hyperledger/hyperledger-original.svg" alt="hyperledger" width="45" height="45"/>
-    </a>
 </p>
 
 # 📊 GitHub Stats:
