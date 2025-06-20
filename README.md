@@ -1,23 +1,69 @@
-# 💫 About Me:
-👋 Hi, I'm Edi Wicoro!<br>💻 Aspiring Software Developer | 🎓 Student | 🌱 Tech Enthusiast<br><br>🔭 About Me:<br><br>    I'm a Computer Engineering student passionate about creating innovative web applications.<br>   <br>🌟 Skills & Tools:<br><br>    Languages: JavaScript, Php<br>    Frameworks: React, CodeIgniter<br>    Styling: TailwindCSS<br>    Others: Git, REST API
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
+<div align="center">
+  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+</div>
 
-# 💻 Tech Stack & Tools
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,codeigniter,python,git,vscode,figma" />
+<h1 align="center">Hi there, I'm Edi Wicoro 👋</h1>
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+<p align="left">
+I'm a Computer Engineering student from Indonesia, passionate about creating innovative web applications.<br><br>
+- 🔭 I’m currently working on personal projects to build a strong portfolio.<br>
+- 📚 I'm learning more about blockchain technology and cloud infrastructure.<br>
+- ⚡ In my free time, I enjoy exploring new tech trends and contributing to open-source projects.
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ediw7&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ediw7&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ediw7&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<h3 align="left">🛠 Languages and Tools</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ediw7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="40" alt="codeigniter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hyperledger/hyperledger-original.svg" height="40" alt="hyperledger logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Ediw7&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">📊 GitHub Stats</h3>
 
-![github-snake-animation](https://raw.githubusercontent.com/Ediw7/Ediw7/output/snake.svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ediw7&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Edi Wicoro's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ediw7&theme=radical&hide_border=true" alt="Edi Wicoro's GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ediw7&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Edi Wicoro's Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ediw7&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Edi Wicoro's GitHub Trophies" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ediw7/Ediw7/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ediw7&icon=0&color=0" />
+</div>
