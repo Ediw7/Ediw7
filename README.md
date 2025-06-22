@@ -61,6 +61,4 @@ I'm a Computer Engineering student from Indonesia, passionate about creating inn
   <img src="https://raw.githubusercontent.com/Ediw7/Ediw7/output/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ediw7&icon=0&color=0" />
-</div>
+
