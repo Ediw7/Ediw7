@@ -13,8 +13,8 @@
 
 <p align="left">
 I'm a Computer Engineering student from Indonesia, passionate about creating innovative web applications.<br><br>
-- 🔭 I’m currently working on personal projects to build a strong portfolio.<br>
-- 📚 I'm learning more about blockchain technology and cloud infrastructure.<br>
+- 🔭 I build robust fullstack and backend systems to power seamless digital experiences.<br>
+- 📚 I'm learning more about blockchain technology.<br>
 - ⚡ In my free time, I enjoy exploring new tech trends and contributing to open-source projects.
 </p>
 
