@@ -51,7 +51,6 @@ I'm a Computer Engineering student from Indonesia, passionate about creating inn
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ediw7&theme=radical&hide_border=true" alt="Edi Wicoro's GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ediw7&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Edi Wicoro's Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=Ediw7&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Edi Wicoro's GitHub Trophies" />
