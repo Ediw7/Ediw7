@@ -25,7 +25,6 @@ I'm a Computer Engineering student from Indonesia, passionate about creating inn
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Ediw7&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ediw7&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ediw7&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
