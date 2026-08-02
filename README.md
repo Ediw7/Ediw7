@@ -28,6 +28,15 @@
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EdiW7/EdiW7/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/EdiW7/EdiW7/languages-output/languages.svg" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
 ## 👾 Contribution Pacman
 
 <div align="center">
@@ -41,7 +50,6 @@
 <br/>
 
 <div align="center">
-  [![Profile Views](https://visitcount.itsvg.in/api?id=Ediw7&icon=0&color=0)](https://visitcount.itsvg.in)
   <br/>
   <sub>Thanks for stopping by! ⭐ Feel free to explore my repositories.</sub>
 </div>
