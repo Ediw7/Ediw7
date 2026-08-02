@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
   <style>
-    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 2px; }
+    .bg { fill: #000000; stroke: #00FFFF; stroke-width: 3px; }
     .text { font-family: 'Consolas', 'Courier New', monospace; font-size: 14px; fill: #e6edf3; white-space: pre; }
     .prompt-user { fill: #ff7b72; font-weight: bold; }
     .prompt-dir { fill: #79c0ff; font-weight: bold; }

@@ -8,7 +8,9 @@
 
 <br/>
 
-<img src="./terminal.svg" alt="Animated Terminal" width="600" />
+<div align="center">
+  <img src="./terminal.svg" alt="Animated Terminal" width="600" />
+</div>
 
 <br/>
 
