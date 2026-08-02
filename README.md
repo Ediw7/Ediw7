@@ -37,6 +37,11 @@
 
   <br/>
 
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ediw7&layout=compact&theme=dark&bg_color=0D1117&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" />
+  </p>
+
+  <br/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdiW7/EdiW7/pacman-output/pacman-contribution-graph-dark.svg">
