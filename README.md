@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+Cyberspace;Hi+there,+I'm+Edi+Wicoro!+%F0%9F%91%8B" alt="Welcome to my Cyberspace" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+Github;Hi+there,+I'm+Edi+Wicoro!+%F0%9F%91%8B" alt="Welcome to my Github" />
   
   <br/>
 
